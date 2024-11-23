@@ -1,26 +1,26 @@
 - name: GNU Affero General Public License v3.0 (AGPL-3.0)
-  file: gnu-agplv3.jinja
+  filename: gnu-agplv3.jinja
 - name: Apache License 2.0 (Apache-2.0)
-  file: ''
+  filename: ''
 - name: BSD 2-Clause 'Simplified' License (BSD-2-Clause)
-  file: ''
+  filename: ''
 - name: BSD 3-Clause 'New' or 'Revised' License (BSD-3-Clause)
-  file: ''
+  filename: ''
 - name: Boost Software License 1.0 (BSL-1.0)
-  file: ''
+  filename: ''
 - name: Creative Commons Zero v1.0 Universal (CC0-1.0)
-  file: ''
+  filename: ''
 - name: Eclipse Public License 2.0 (EPL-2.0)
-  file: ''
+  filename: ''
 - name: GNU General Public License v2.0 (GPL-2.0)
-  file: ''
+  filename: ''
 - name: GNU General Public License v3.0 (GPL-3.0)
-  file: gnu-gplv3.jinja
+  filename: gnu-gplv3.jinja
 - name: GNU Lesser General Public License v3.0 (LGPL-3.0)
-  file: gnu-lgplv3.jinja
+  filename: gnu-lgplv3.jinja
 - name: MIT License (MIT)
-  file: mit.jinja
+  filename: mit.jinja
 - name: Mozilla Public License 2.0 (MPL-2.0)
-  file: ''
+  filename: ''
 - name: The Unlicense (Unlicense)
-  file: unlicense.jinja
+  filename: unlicense.jinja
