@@ -31,7 +31,7 @@
 - name: LGPL-3.0
   description: GNU Lesser General Public License v3.0
   filename: gnu-lgplv3.jinja
-- name:
+- name: MIT
   description: MIT License
   filename: mit.jinja
 - name: MPL-2.0
